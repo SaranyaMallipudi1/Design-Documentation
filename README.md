@@ -1,2 +1,2 @@
 # Design-Documentation
-Java ascending sorting Linked List code for random integer input, and a different code doing the same with a Stack.
+Java code: ascending sorting Linked List  for random integer input, and a different code doing the same with a Stack.
